@@ -9,4 +9,4 @@
                     6. You can personlize the teacher with respect to topic if any teacher is absent by selected their staff code in its neighbour column.
                     7. Then click update button to get the plan in specific format. In top right corner you get the count of adjustment you done for topic (no. of personalization of topic you took).
                     8. Then you can download the weekly plan by clicking on download  button.
-                    9. Then Mark these topic as completed at home page by clicking on Topic completed button.
+                    9. Then Mark these topic as completed at home page by clicking on Topic completed button. After that Reset all the thing by clicking on reset button
